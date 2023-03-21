@@ -1,0 +1,47 @@
+What is MACHINE LEARNING?
+    Machine learning is the subfield of computer science that gives "computers the 
+    ability to learn without being explicitely programmed."
+
+Major ML techniques:
+1. regression/ estimation : predicting continuous values
+2. classification : predicting the item class/ category of a case
+3. clustering : finding the structure of data; summarization
+4. associations: associating frequent co-occuring items/ events.
+5. anamoly detection: discovering abnormal and unusual cases.
+6. sequence mining: predicting next events; click-stream(Markov Model, HMM)
+7. dimension reduction: reducing the size of data(PCA)
+8. recommendation systems: recommending items
+
+DIFFERENECE BETWEEN AI, ML, DL
+    1. AI(tries to make computer intelligent, to mimic cognitive funs): computer vision, language processing, creativity
+    2. ML(branch of AI that covers the statistical part of AI, teaches to solve 
+        problems by looking at thousands of examples): classification, clustering, 
+        neural network.
+    3. Revolution in ML: Deep Learning(field of ML where computers learn and make 
+       intelligent decisions on their own)
+
+PYTHON LIBRARIES FOR ML:
+    1. NumPy: math lib to work with n-dim arrays
+    2. SciPy: collection of numerical algos and domain specific toolboxes.
+    3. Matplotib: plotting package that provides 2-D as well as 3-D plotting
+    4. pandas: provides high performance easy to use data structures., provides data 
+       structures and operations for manipulating numerical tables and timeseries.
+    5. SciKitLearn: collection of algos and toolsfor ML.
+
+What is supervised learning?
+    teach the model then with that knowledge, it can predict unknown or future instances.
+
+What is unsupervised learning?
+    The model works on its own to discover information
+
+
+SUPERVISED LEARNING 
+classification: classifies labeled data
+regression: predicts trends using previous labeled data
+has more evaluation methods than unsupervised learning
+controlled environment
+
+UNSUPERVISED LEARNING
+clustering: finds patterns and groupings from unlabeled data
+has fewer evaluation methos than SL
+less controlled environment

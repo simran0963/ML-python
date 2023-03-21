@@ -1,0 +1,95 @@
+SKILLS:
+    1. REGRESSION
+    2. CLASSIFICATION
+    3. CLUSTERING
+    4. SCIKIT LEARN
+    5. SCIPY
+
+PROJECTS:
+    1. CANCER DETECTION
+    2. PREDICTIONG ECONOMIC TRENDS
+    3. PREDICTING CUSTOMER CHURN
+    4. RECOMMENDATION ENGINES
+    
+AQs:
+
+Which Machine Learning  technique is proper for grouping of similar cases in a dataset, for example to find similar patients, or for customers
+segmentation in a bank?
+->clustering
+
+Why Scikit is a proper library for Machine Learning (select all the options that are correct)?
+->Scikit-learn is a free machine learning library that works with Numpy and Scipy.
+->Scikit-learn has most of machine learning algorithms.
+
+Which technique/s is/ are considered as supervised learning?
+->classification, regression.
+
+
+***********************************************************************************************************************************************
+Assignment-I:
+
+Supervised learning deals with unlabeled data, while unsupervised learning deals with labelled data.
+False
+
+Unsupervised learning deals with unlabeled data, and supervised learning deals with labelled data
+
+
+Question 2
+The "Regression" technique in Machine Learning is a group of algorithms that are used for:
+Answer: 2.
+1. Prediction of class/category of a case; for example, a cell is benign or malignant, or a customer will churn or not.
+
+
+2. Predicting a continuous value; for example predicting the price of a house based on its characteristics.
+
+
+3. Finding items/events that often co-occur; for example grocery items that are usually bought together by a customer.
+
+Regression techniques are used for continuous variable prediction, whereas classification techniques handle dependent variables with discrete classes.
+
+
+Question 3
+When comparing Supervised with Unsupervised learning, is this sentence True or False?
+
+In contrast to Supervised learning, Unsupervised learning has more models and more evaluation methods that can be used in order to ensure the outcome of the model is accurate.
+False
+Unsupervised learning has fewer models and evaluation methods than Supervised learning.
+
+***********************************************************************************************************************************************
+
+GRADED QUIZ 1
+
+Question 1
+In a dataset, what do the columns represent? features
+
+Question 2
+What is a major benefit of unsupervised learning over supervised learning?
+
+Discover previously unknown information about the dataset.
+Being able to produce a prediction based on unlabelled data.
+Better evaluates the performance of a built model.
+Explore the relationship between features and the target.
+
+Question 3
+What’s the correct order for using a model?
+
+Clean the data, split the data into training and test sets, fit the model on the train set, evaluate model accuracy.
+Split the data into training and test sets, fit the model on the train set, evaluate model accuracy.
+Clean the data, fit the model on the entire dataset, split the data into training and test sets, evaluate model accuracy.
+Split the data into the training and test sets, fit the model on the train set, clean the data, evaluate model accuracy.
+
+Question 4
+Which of the following is suitable for an unsupervised learning?
+
+Predict house price based on location, house size, and number of rooms.
+Classifying benign and malignant tumors using historical data on tumor shape, color, etc.
+Segment customers into groups for discovering similar characteristics between them.
+Examine the relationship between academic performance and level of in-class participation using observations that include a feature recording each student’s grade.
+
+Question 5
+The main purpose of the NumPy library is to: 
+
+Achieve scientific computations.
+Construct machine learning models.
+most prolly :Perform computations on arrays efficiently.
+Visualize results in 2D and 3D plots.
