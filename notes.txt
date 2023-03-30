@@ -45,3 +45,15 @@ UNSUPERVISED LEARNING
 clustering: finds patterns and groupings from unlabeled data
 has fewer evaluation methos than SL
 less controlled environment
+
+REGRESSION:
+    1. Simple Regression: an independednt var is used to determine a dependednt var.
+        1. simplelinear: predict CO2 emission vs enginesize of all cars
+        2. simple non-linear
+    2. multiple regeression
+        1. multiple linear: predict CO2 emission using enginesize and no of cylinders of all cars
+        2. multiple non-linear
+    example: sales forecasting, satisfaction analysis, price estimation, employment income
+
+    Simple linear regression:
+        
